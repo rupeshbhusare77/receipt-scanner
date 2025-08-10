@@ -1,8 +1,8 @@
 # 🧾 Azure-Powered Receipt Scanner
 
-This is my AI-powered receipt & invoice scanner built with **Azure AI Document Intelligence** (the service formerly known as Form Recognizer).
+This is my AI-powered receipt built with **Azure AI Document Intelligence** (the service formerly known as Form Recognizer).
 
-It’s not 100% perfect (no AI is), but it does its best to give you clean, structured data from messy bills so you can skip the manual typing and focus on what matters.
+It’s not 100% perfect , but it does its best to give you clean, structured data from messy bills so you can skip the manual typing and focus on what matters.
 
 ---
 ### ✨ Why It’s Cool
