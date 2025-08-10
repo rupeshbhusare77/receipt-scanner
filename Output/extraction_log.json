@@ -1,0 +1,245 @@
+[
+  {
+    "items": [],
+    "vendor_name": "MANTA REY",
+    "date": "2019-05-09",
+    "time": "20:32:00",
+    "subtotal": null,
+    "tax": null,
+    "tip": null,
+    "discount": 0.0,
+    "total": 17.11,
+    "validation_info": {
+      "calculated_total": 0.0,
+      "validation_passed": false
+    },
+    "source_file": "r2.png"
+  },
+  {
+    "items": [
+      {
+        "description": "FILET MIGNON",
+        "quantity": 2.0,
+        "price": 98.0
+      },
+      {
+        "description": "RIB EYE",
+        "quantity": 1.0,
+        "price": 52.0
+      },
+      {
+        "description": "CAESAR SALAD",
+        "quantity": 1.0,
+        "price": 14.5
+      },
+      {
+        "description": "CREAMED SPINACH",
+        "quantity": 1.0,
+        "price": 11.0
+      },
+      {
+        "description": "BAKED POTATO",
+        "quantity": 1.0,
+        "price": 9.5
+      }
+    ],
+    "vendor_name": "EPIC STEAKHOUSE",
+    "date": null,
+    "time": null,
+    "subtotal": 185.0,
+    "tax": 17.02,
+    "tip": 75.0,
+    "discount": 0.0,
+    "total": 277.02,
+    "validation_info": {
+      "calculated_total": 277.02,
+      "validation_passed": true
+    },
+    "source_file": "r4.png"
+  },
+  {
+    "items": [
+      {
+        "description": "WINDEX",
+        "quantity": 1.0,
+        "price": 2.49
+      },
+      {
+        "description": "OREO COOKIES",
+        "quantity": 1.0,
+        "price": 2.99
+      },
+      {
+        "description": "RITZ BITS SD",
+        "quantity": 1.0,
+        "price": 2.33
+      },
+      {
+        "description": "SPECIAL K",
+        "quantity": 1.0,
+        "price": 2.99
+      },
+      {
+        "description": "SIMPLY",
+        "quantity": 1.0,
+        "price": 2.99
+      },
+      {
+        "description": "CREST",
+        "quantity": 1.0,
+        "price": 2.79
+      }
+    ],
+    "vendor_name": "TARGET",
+    "date": "2013-11-22",
+    "time": "16:39:00",
+    "subtotal": 16.58,
+    "tax": 0.46,
+    "tip": null,
+    "discount": 0.0,
+    "total": 17.04,
+    "validation_info": {
+      "calculated_total": 17.04,
+      "validation_passed": true
+    },
+    "source_file": "r3.png"
+  },
+  {
+    "items": [
+      {
+        "description": "FRESH MILK",
+        "quantity": 1.0,
+        "price": 0.89
+      },
+      {
+        "description": "MJESLI",
+        "quantity": 1.0,
+        "price": 2.29
+      },
+      {
+        "description": "DARK CHOCOLATE",
+        "quantity": 2.0,
+        "price": 1.9
+      }
+    ],
+    "vendor_name": "alamy",
+    "date": "2012-04-23",
+    "time": "19:51:00",
+    "subtotal": null,
+    "tax": null,
+    "tip": null,
+    "discount": 0.0,
+    "total": 5.08,
+    "validation_info": {
+      "calculated_total": 0.0,
+      "validation_passed": false
+    },
+    "source_file": "r5.png"
+  },
+  {
+    "items": [
+      {
+        "description": "ARTHUR III BLACK CALF",
+        "quantity": 1.0,
+        "price": 350.0
+      },
+      {
+        "description": "SHOE FILLERS-CEDARWOOD A0610CHY",
+        "quantity": 1.0,
+        "price": 60.0
+      }
+    ],
+    "vendor_name": "Cheaney .Shoes Ltd",
+    "date": "2019-01-15",
+    "time": "12:11:44",
+    "subtotal": 341.67,
+    "tax": 68.33,
+    "tip": null,
+    "discount": 0.0,
+    "total": 410.0,
+    "validation_info": {
+      "calculated_total": 410.0,
+      "validation_passed": true
+    },
+    "source_file": "r1.png"
+  },
+  {
+    "items": [
+      {
+        "description": "VINYL GLOVES",
+        "quantity": 1.0,
+        "price": 11.72
+      },
+      {
+        "description": "AJAX DISHLIM",
+        "quantity": 1.0,
+        "price": 2.96
+      },
+      {
+        "description": "ADVIL DUAL18",
+        "quantity": 1.0,
+        "price": 3.98
+      },
+      {
+        "description": "MCC/SCH PARS",
+        "quantity": 1.0,
+        "price": 2.44
+      },
+      {
+        "description": "VINYL GLOVES",
+        "quantity": 1.0,
+        "price": 11.72
+      }
+    ],
+    "vendor_name": "Give us feedback @ survey.walmart.com",
+    "date": "2021-08-12",
+    "time": "11:36:18",
+    "subtotal": 32.82,
+    "tax": 2.54,
+    "tip": null,
+    "discount": 0.0,
+    "total": 35.36,
+    "validation_info": {
+      "calculated_total": 35.36,
+      "validation_passed": true
+    },
+    "source_file": "r7.png"
+  },
+  {
+    "items": [
+      {
+        "description": "2xLatte Macchiato",
+        "quantity": 1.0,
+        "price": 9.0
+      },
+      {
+        "description": "1xGloki",
+        "quantity": 1.0,
+        "price": 5.0
+      },
+      {
+        "description": "1xSchweinschnitzel",
+        "quantity": 1.0,
+        "price": 22.0
+      },
+      {
+        "description": "1xCh\u00e4ssp\u00e4tzli",
+        "quantity": 1.0,
+        "price": 18.5
+      }
+    ],
+    "vendor_name": "Berghotel",
+    "date": "2007-07-30",
+    "time": "13:29:17",
+    "subtotal": null,
+    "tax": 3.85,
+    "tip": null,
+    "discount": 0.0,
+    "total": 54.5,
+    "validation_info": {
+      "calculated_total": 3.85,
+      "validation_passed": false
+    },
+    "source_file": "r6.png"
+  }
+]
