@@ -19,7 +19,7 @@ It’s not 100% perfect (no AI is), but it does its best to give you clean, stru
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/rupeshbhusare77/receipt-scanner.git](https://github.com/rupeshbhusare77/receipt-scanner.git)
+    git clone https://github.com/rupeshbhusare77/receipt-scanner.git
     cd receipt-scanner
     ```
 2.  **Set Up the Environment**
