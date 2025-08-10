@@ -74,4 +74,4 @@ Let’s make receipt scanning smarter together! 🚀
 
 *Not perfect, but always trying its best.*
 
-For Output and sample images refer *Output* folder.
+>For Output and sample images refer *Output* folder.
