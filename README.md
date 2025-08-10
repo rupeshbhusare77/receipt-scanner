@@ -73,3 +73,5 @@ If you spot a bug, have a better idea, or want to make it faster — fork the re
 Let’s make receipt scanning smarter together! 🚀
 
 *Not perfect, but always trying its best.*
+
+For Output and sample images refer *Output* folder.
